@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Space War Game",
+    "imageSrc": "projects/project.png",
+    "description": "A game project developed using python programming by importing turtle module which is used as a user interface. ",
+    "skills": ["Python", "Turtle"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Gopi2543/project.git"
+  },
+  {
+    "title": "Student Management",
+    "imageSrc": "projects/project.png",
+    "description": "A Django-based application for CRUD operations to manage student details in a database.",
+    "skills": [ "HTML","CSS","Bootstrap","Python", "Django", "MySQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Gopi2543/project.git"
+  },
+  {
+    "title": "Library Management",
+    "imageSrc": "projects/project.png",
+    "description": "The Django-powered library management system offers virtual wallets for users and comprehensive administrative tools for book availability, transactions, and user activity tracking.",
+    "skills": ["HTML","CSS","Python", "Django", "MySQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Gopi2543/project.git"
+  }
+]

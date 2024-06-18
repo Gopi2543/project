@@ -1,0 +1,38 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "Bootstrap 5",
+        "imageSrc": "skills/bootstrap.png"
+      },
+
+      {
+        "title": "JavaScripts",
+        "imageSrc": "skills/Javascript.png"
+      },
+
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "MySQL",
+      "imageSrc": "skills/mysql.png"
+    },
+    {
+      "title": "Django",
+      "imageSrc": "skills/Dja.png"
+    }
+    
+  ]
+  
