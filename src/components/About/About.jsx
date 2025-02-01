@@ -32,6 +32,15 @@ export const About = () =>{
                     </p>
                     </div>
                 </li>
+                <li className={styles.aboutItem}>
+                <img src={getImageUrl("about/serverIcon.png")} alt="server" />
+                <div className={styles.aboutItemText}>
+                    <h3>Application Support Engineer</h3>
+                    <p>
+                    I have five months of experience as an Application Support Engineer at IPS, where I gained valuable skills in troubleshooting and resolving software issues.                        
+                    </p>
+                    </div>
+                </li>
             </ul>
         </div>
         

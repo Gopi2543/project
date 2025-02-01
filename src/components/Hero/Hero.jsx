@@ -13,7 +13,7 @@ export const Hero = () =>
                     
              </p>
              
-             <a href="https://drive.google.com/file/d/117Agj9FqDWQiUN-h0N_6ydNw4KoSFbxc/view?usp=drivesdk" className={styles.contactBtn}> Download CV</a>
+             <a href="https://drive.google.com/file/d/12wx7Im_QwK25ATO9A8_yoRHlaQr071w_/view?usp=sharing" className={styles.contactBtn}> Download CV</a>
         </div>
         <img src={getImageUrl("hero/pro.jpg")} alt=" Hero image of me" className={styles.heroImg} />
         <div className={styles.topBlur}/>

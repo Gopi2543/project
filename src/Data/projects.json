@@ -2,7 +2,7 @@
   {
     "title": "Space War Game",
     "imageSrc": "projects/project.png",
-    "description": "A game project developed using python programming by importing turtle module which is used as a user interface. ",
+    "description": "A game developed using Python and the Turtle module for the user interface. In this single-player game, the player is surrounded by enemies and must survive while scoring points. The game ends after being attacked three times, offering a nostalgic, vintage gaming experience ",
     "skills": ["Python", "Turtle"],
     "demo": "https://www.example.com",
     "source": "https://github.com/Gopi2543/project.git"
@@ -10,7 +10,7 @@
   {
     "title": "Student Management",
     "imageSrc": "projects/project.png",
-    "description": "A Django-based application for CRUD operations to manage student details in a database.",
+    "description": "An application developed using Django and Python to manage student details. It allows users to create, retrieve, update, and delete data stored in a database. This ensures that student information is securely saved and easily accessible, providing an organized way to manage and interact with the data.",
     "skills": [ "HTML","CSS","Bootstrap","Python", "Django", "MySQL"],
     "demo": "https://www.example.com",
     "source": "https://github.com/Gopi2543/project.git"
@@ -18,9 +18,38 @@
   {
     "title": "Library Management",
     "imageSrc": "projects/project.png",
-    "description": "The Django-powered library management system offers virtual wallets for users and comprehensive administrative tools for book availability, transactions, and user activity tracking.",
+    "description": "A Django-powered library management system that provides virtual wallets for users. It includes administrative tools for managing book availability, tracking transactions, and monitoring user activity. This system enhances the library experience by streamlining book management and enabling seamless financial interactions for users",
     "skills": ["HTML","CSS","Python", "Django", "MySQL"],
     "demo": "https://www.example.com",
     "source": "https://github.com/Gopi2543/project.git"
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "A portfolio project is a personal website or web application created to highlight an individual’s skills, projects, and achievements. It serves as a professional platform to display work, demonstrate expertise, and make a strong impression on potential employers or clients, showcasing capabilities in an organized manner.",
+    "skills": ["HTML","CSS","JavaScripts","React"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Gopi2543/project.git"
+
+  },
+  {
+    "title": "Web Notes",
+    "imageSrc": "projects/project.png",
+    "description": "A dynamic web calendar application that enhances event organization and scheduling. Users can create, view, and filter events in a weekly format. Powered by Django REST Framework for a robust backend and Redux for efficient state management, the app ensures seamless and secure data handling for a smooth experience.",
+    "skills": ["HTML","CSS","Python", "Django","React", "MySQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Gopi2543/project.git"
+
+  },
+  {
+    "title": "Study Bud",
+    "imageSrc": "projects/project.png",
+    "description": "Developed with Django, HTML, CSS, JS, and Django REST API. Features include user account management, room creation/editing, real-time chat, and room joining for collaboration. The application offers a responsive design and efficient backend with Django, ensuring smooth communication between frontend and backend for a seamless user experience.",
+    "skills": ["HTML","CSS","Python", "Django","MySQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Gopi2543/project.git"
   }
+
+
+
 ]
